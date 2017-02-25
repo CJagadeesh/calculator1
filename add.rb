@@ -1,2 +1,2 @@
-add 5+6
-add 3+4
+puts  5+6
+puts  3+4
